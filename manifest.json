@@ -1,0 +1,52 @@
+
+{
+  "project_name": "Chatbot RAG SOP Akademik",
+  "description": "Dataset simulasi untuk praktikum Cloud AI Kampus",
+  "documents": [
+    {
+      "document_id": "SIM-001",
+      "title": "Prosedur Pengajuan Surat Akademik",
+      "source": "Dataset simulasi praktikum kelompok",
+      "file_path": "data/raw/sim-001.txt",
+      "version": "1.0",
+      "access_level": "public",
+      "course_scope": "ACP-22502"
+    },
+    {
+      "document_id": "SIM-002",
+      "title": "Prosedur Peminjaman Ruang Kampus",
+      "source": "Dataset simulasi praktikum kelompok",
+      "file_path": "data/raw/sim-002.txt",
+      "version": "1.0",
+      "access_level": "public",
+      "course_scope": "ACP-22502"
+    },
+    {
+      "document_id": "SIM-003",
+      "title": "Prosedur Konsultasi Akademik Mahasiswa",
+      "source": "Dataset simulasi praktikum kelompok",
+      "file_path": "data/raw/sim-003.txt",
+      "version": "1.0",
+      "access_level": "public",
+      "course_scope": "ACP-22502"
+    },
+    {
+      "document_id": "SIM-004",
+      "title": "Prosedur Penggunaan Laboratorium Komputer",
+      "source": "Dataset simulasi praktikum kelompok",
+      "file_path": "data/raw/sim-004.txt",
+      "version": "1.0",
+      "access_level": "public",
+      "course_scope": "ACP-22502"
+    },
+    {
+      "document_id": "SIM-005",
+      "title": "Prosedur Layanan Perpustakaan Kampus",
+      "source": "Dataset simulasi praktikum kelompok",
+      "file_path": "data/raw/sim-005.txt",
+      "version": "1.0",
+      "access_level": "public",
+      "course_scope": "ACP-22502"
+    }
+  ]
+}

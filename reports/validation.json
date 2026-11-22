@@ -1,0 +1,51 @@
+{
+    "project_name": "Chatbot RAG SOP Akademik",
+    "validation_date": "2026-11-22T21:17:47.903726",
+    "total_documents": 5,
+    "valid_documents": 5,
+    "invalid_documents": 0,
+    "status": "SUCCESS",
+    "documents": [
+        {
+            "document_id": "SIM-001",
+            "title": "Prosedur Pengajuan Surat Akademik",
+            "status": "VALID",
+            "sha256": "bf7432400d12729deaf950b778f42ce1cb55055d43940d915b7668b41ad07af9",
+            "size_bytes": 1215,
+            "errors": []
+        },
+        {
+            "document_id": "SIM-002",
+            "title": "Prosedur Peminjaman Ruang Kampus",
+            "status": "VALID",
+            "sha256": "0744fffa8a78ebb4156a8a712fd472e79ec4e9aa0d233500f8a4105b95bde1df",
+            "size_bytes": 1320,
+            "errors": []
+        },
+        {
+            "document_id": "SIM-003",
+            "title": "Prosedur Konsultasi Akademik Mahasiswa",
+            "status": "VALID",
+            "sha256": "56ed49beca750c5065940f9c6e77e01d7d2b446c32352f54dbae2b5c3c0bbe70",
+            "size_bytes": 1400,
+            "errors": []
+        },
+        {
+            "document_id": "SIM-004",
+            "title": "Prosedur Penggunaan Laboratorium Komputer",
+            "status": "VALID",
+            "sha256": "961d3bb0b9bd751e50436889e9deb524ac9da87a73d14dabbe307202965617b8",
+            "size_bytes": 1442,
+            "errors": []
+        },
+        {
+            "document_id": "SIM-005",
+            "title": "Prosedur Layanan Perpustakaan Kampus",
+            "status": "VALID",
+            "sha256": "8925bffc5cd2d1b93944642b7d029cb183a2f8fdab6a0802460a583437d1aa89",
+            "size_bytes": 1426,
+            "errors": []
+        }
+    ],
+    "errors": []
+}

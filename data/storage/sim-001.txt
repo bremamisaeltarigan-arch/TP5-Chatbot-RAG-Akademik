@@ -1,0 +1,13 @@
+DATA SIMULASI UNTUK PRAKTIKUM
+
+JUDUL: PROSEDUR PENGAJUAN SURAT AKADEMIK
+
+Dokumen ini menjelaskan prosedur simulasi pengajuan surat akademik bagi mahasiswa di lingkungan kampus. Dokumen ini dibuat khusus untuk latihan pengelolaan data dan pengembangan chatbot RAG, sehingga seluruh ketentuan di dalamnya bersifat fiktif.
+
+Mahasiswa yang membutuhkan surat akademik dapat mengajukan permohonan melalui layanan administrasi akademik. Sebelum mengajukan permohonan, mahasiswa perlu menentukan jenis surat yang dibutuhkan, misalnya surat keterangan aktif kuliah, surat pengantar penelitian, atau surat keterangan lainnya.
+
+Mahasiswa kemudian mengisi formulir pengajuan dengan mencantumkan nama fiktif, program studi simulasi, jenis surat, dan tujuan penggunaan surat. Petugas administrasi memeriksa kelengkapan informasi yang diberikan. Jika terdapat informasi yang belum lengkap, pemohon diminta memperbaikinya terlebih dahulu.
+
+Setelah persyaratan dinyatakan lengkap, petugas memproses permohonan dan memberikan pemberitahuan ketika surat selesai dibuat. Pemohon dapat mengambil surat sesuai petunjuk layanan.
+
+Dokumen ini merupakan kebijakan simulasi untuk keperluan pembelajaran dan bukan prosedur resmi universitas.

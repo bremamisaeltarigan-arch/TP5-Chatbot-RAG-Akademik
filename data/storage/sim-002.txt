@@ -1,0 +1,15 @@
+DATA SIMULASI UNTUK PRAKTIKUM
+
+JUDUL: PROSEDUR PEMINJAMAN RUANG KAMPUS
+
+Dokumen ini menjelaskan prosedur simulasi peminjaman ruangan untuk kegiatan akademik mahasiswa. Seluruh informasi di dalam dokumen merupakan contoh fiktif yang digunakan untuk praktikum pengelolaan dataset AI kampus.
+
+Mahasiswa atau kelompok mahasiswa yang ingin menggunakan ruangan kampus harus mengajukan permohonan kepada petugas pengelola fasilitas. Ruangan dapat digunakan untuk diskusi kelompok, seminar mahasiswa, presentasi proyek, atau kegiatan pembelajaran lainnya yang telah direncanakan.
+
+Pengajuan dilakukan dengan mengisi formulir yang berisi nama pemohon fiktif, tujuan kegiatan, perkiraan jumlah peserta, tanggal penggunaan, dan waktu peminjaman. Pemohon juga perlu menyampaikan kebutuhan fasilitas tambahan apabila diperlukan.
+
+Petugas pengelola fasilitas memeriksa jadwal penggunaan ruangan untuk memastikan tidak terjadi benturan dengan kegiatan lain. Jika ruangan tersedia, permohonan dapat disetujui dan pemohon menerima informasi mengenai lokasi serta waktu penggunaan.
+
+Pengguna bertanggung jawab menjaga kebersihan, ketertiban, dan fasilitas yang tersedia. Setelah kegiatan selesai, ruangan harus dikembalikan dalam kondisi bersih dan rapi.
+
+Dokumen ini merupakan data simulasi praktikum dan bukan aturan resmi universitas.

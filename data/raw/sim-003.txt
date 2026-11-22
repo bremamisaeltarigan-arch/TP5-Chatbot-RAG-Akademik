@@ -1,0 +1,15 @@
+DATA SIMULASI UNTUK PRAKTIKUM
+
+JUDUL: PROSEDUR KONSULTASI AKADEMIK MAHASISWA
+
+Dokumen ini menjelaskan prosedur simulasi konsultasi akademik antara mahasiswa dan dosen pembimbing akademik. Dokumen disusun sebagai contoh sumber informasi untuk proyek chatbot RAG akademik dan tidak menggambarkan kebijakan kampus yang sebenarnya.
+
+Konsultasi akademik merupakan kegiatan komunikasi yang bertujuan membantu mahasiswa memahami perkembangan belajar dan merencanakan kegiatan perkuliahan. Mahasiswa dapat melakukan konsultasi ketika mengalami kesulitan memahami mata kuliah, menyusun rencana studi, atau membutuhkan arahan mengenai kegiatan akademik.
+
+Untuk melakukan konsultasi, mahasiswa menghubungi dosen pembimbing melalui saluran komunikasi simulasi yang telah disepakati. Mahasiswa menyampaikan tujuan konsultasi dan mengusulkan waktu pertemuan. Dosen atau pihak yang bertugas kemudian memberikan konfirmasi jadwal.
+
+Saat konsultasi berlangsung, mahasiswa menjelaskan pertanyaan atau permasalahan yang ingin dibahas. Dosen memberikan arahan, saran, dan informasi yang relevan untuk membantu mahasiswa mempertimbangkan langkah berikutnya.
+
+Setelah konsultasi selesai, mahasiswa dianjurkan mencatat hasil pembahasan dan tindak lanjut yang disepakati. Catatan tersebut dapat digunakan sebagai pengingat pribadi.
+
+Dokumen ini merupakan dokumen simulasi untuk praktikum, bukan kebijakan resmi universitas.

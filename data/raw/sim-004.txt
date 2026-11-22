@@ -1,0 +1,15 @@
+DATA SIMULASI UNTUK PRAKTIKUM
+
+JUDUL: PROSEDUR PENGGUNAAN LABORATORIUM KOMPUTER
+
+Dokumen ini menjelaskan prosedur simulasi penggunaan laboratorium komputer untuk mendukung kegiatan pembelajaran mahasiswa. Isi dokumen merupakan contoh fiktif yang disiapkan untuk latihan ingestion dan validasi data.
+
+Laboratorium komputer merupakan fasilitas pembelajaran yang dapat digunakan untuk kegiatan praktikum, penelitian, dan pengembangan keterampilan teknologi informasi. Setiap pengguna perlu mengikuti ketentuan penggunaan fasilitas agar kegiatan berjalan aman dan tertib.
+
+Sebelum menggunakan laboratorium, mahasiswa harus memastikan jadwal penggunaan telah tersedia dan memperoleh izin dari dosen atau petugas laboratorium. Pengguna juga perlu mengikuti arahan mengenai perangkat yang boleh digunakan selama kegiatan.
+
+Selama praktikum berlangsung, pengguna tidak diperbolehkan mengubah konfigurasi komputer, memasang perangkat lunak, atau memindahkan perangkat tanpa izin. Pengguna harus menjaga komputer, jaringan, meja, kursi, dan fasilitas pendukung lainnya.
+
+Apabila ditemukan kerusakan atau gangguan pada perangkat, mahasiswa harus segera melaporkannya kepada petugas laboratorium. Setelah kegiatan selesai, pengguna menyimpan pekerjaan, keluar dari akun yang digunakan, mematikan perangkat sesuai arahan, dan menjaga kebersihan ruangan.
+
+Dokumen ini dibuat sebagai data simulasi praktikum AI kampus dan bukan peraturan resmi universitas.
