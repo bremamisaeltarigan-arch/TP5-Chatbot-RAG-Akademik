@@ -1,0 +1,15 @@
+DATA SIMULASI UNTUK PRAKTIKUM
+
+JUDUL: PROSEDUR LAYANAN PERPUSTAKAAN KAMPUS
+
+Dokumen ini menjelaskan prosedur simulasi penggunaan layanan perpustakaan bagi mahasiswa. Dokumen disusun sebagai data contoh untuk pengembangan chatbot akademik dan seluruh ketentuannya bersifat fiktif.
+
+Perpustakaan merupakan fasilitas yang menyediakan sumber informasi untuk mendukung kegiatan pembelajaran dan penelitian. Mahasiswa dapat memanfaatkan fasilitas tersebut untuk membaca buku, mencari referensi, dan meminjam koleksi yang tersedia sesuai ketentuan layanan.
+
+Untuk melakukan peminjaman buku, mahasiswa terlebih dahulu mencari koleksi melalui katalog perpustakaan simulasi. Setelah menemukan buku yang dibutuhkan, mahasiswa mengajukan peminjaman kepada petugas dengan menyebutkan judul atau kode koleksi.
+
+Petugas memeriksa ketersediaan buku dan mencatat informasi peminjaman. Informasi tersebut meliputi identitas peminjam fiktif, judul buku, tanggal peminjaman, dan batas waktu pengembalian. Informasi contoh ini tidak boleh diisi menggunakan data pribadi mahasiswa sebenarnya.
+
+Mahasiswa bertanggung jawab menjaga kondisi buku selama masa peminjaman. Buku harus dikembalikan sesuai batas waktu yang tercatat. Jika buku mengalami kerusakan atau kehilangan, mahasiswa perlu melaporkannya kepada petugas untuk memperoleh arahan tindak lanjut.
+
+Dokumen ini merupakan data simulasi untuk praktikum dan bukan kebijakan resmi universitas.

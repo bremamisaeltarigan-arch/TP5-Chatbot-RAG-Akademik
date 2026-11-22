@@ -1,0 +1,27 @@
+[
+  {
+    "id": "TC-001",
+    "query": "Apa tujuan dari panduan akademik?",
+    "expected": "Dokumen yang menjelaskan panduan akademik"
+  },
+  {
+    "id": "TC-002",
+    "query": "Bagaimana mahasiswa mendapatkan informasi akademik?",
+    "expected": "Dokumen yang berkaitan dengan informasi akademik"
+  },
+  {
+    "id": "TC-003",
+    "query": "Apa aturan yang harus diperhatikan mahasiswa?",
+    "expected": "Dokumen yang menjelaskan aturan mahasiswa"
+  },
+  {
+    "id": "TC-004",
+    "query": "Bagaimana cara mahasiswa mengikuti proses perkuliahan?",
+    "expected": "Dokumen yang berkaitan dengan proses perkuliahan"
+  },
+  {
+    "id": "TC-005",
+    "query": "Di mana mahasiswa dapat menemukan informasi yang dibutuhkan?",
+    "expected": "Dokumen yang paling relevan dengan pertanyaan"
+  }
+]

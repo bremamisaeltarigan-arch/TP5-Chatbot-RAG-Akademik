@@ -1,0 +1,168 @@
+{
+  "experiment": "TP6 Keyword Search Baseline",
+  "method": "Keyword Search",
+  "document_count": 5,
+  "test_count": 5,
+  "results": [
+    {
+      "id": "TC-001",
+      "query": "Apa tujuan dari panduan akademik?",
+      "expected": "Dokumen yang menjelaskan panduan akademik",
+      "top_result": {
+        "filename": "sim-001.txt",
+        "score": 0.4
+      },
+      "latency_seconds": 0.0004,
+      "all_results": [
+        {
+          "filename": "sim-001.txt",
+          "score": 0.4
+        },
+        {
+          "filename": "sim-002.txt",
+          "score": 0.4
+        },
+        {
+          "filename": "sim-003.txt",
+          "score": 0.4
+        },
+        {
+          "filename": "sim-004.txt",
+          "score": 0.2
+        },
+        {
+          "filename": "sim-005.txt",
+          "score": 0.2
+        }
+      ]
+    },
+    {
+      "id": "TC-002",
+      "query": "Bagaimana mahasiswa mendapatkan informasi akademik?",
+      "expected": "Dokumen yang berkaitan dengan informasi akademik",
+      "top_result": {
+        "filename": "sim-001.txt",
+        "score": 0.6
+      },
+      "latency_seconds": 0.0003,
+      "all_results": [
+        {
+          "filename": "sim-001.txt",
+          "score": 0.6
+        },
+        {
+          "filename": "sim-002.txt",
+          "score": 0.6
+        },
+        {
+          "filename": "sim-003.txt",
+          "score": 0.6
+        },
+        {
+          "filename": "sim-005.txt",
+          "score": 0.6
+        },
+        {
+          "filename": "sim-004.txt",
+          "score": 0.4
+        }
+      ]
+    },
+    {
+      "id": "TC-003",
+      "query": "Apa aturan yang harus diperhatikan mahasiswa?",
+      "expected": "Dokumen yang menjelaskan aturan mahasiswa",
+      "top_result": {
+        "filename": "sim-002.txt",
+        "score": 0.6666666666666666
+      },
+      "latency_seconds": 0.0002,
+      "all_results": [
+        {
+          "filename": "sim-002.txt",
+          "score": 0.6666666666666666
+        },
+        {
+          "filename": "sim-004.txt",
+          "score": 0.5
+        },
+        {
+          "filename": "sim-005.txt",
+          "score": 0.5
+        },
+        {
+          "filename": "sim-001.txt",
+          "score": 0.3333333333333333
+        },
+        {
+          "filename": "sim-003.txt",
+          "score": 0.3333333333333333
+        }
+      ]
+    },
+    {
+      "id": "TC-004",
+      "query": "Bagaimana cara mahasiswa mengikuti proses perkuliahan?",
+      "expected": "Dokumen yang berkaitan dengan proses perkuliahan",
+      "top_result": {
+        "filename": "sim-003.txt",
+        "score": 0.3333333333333333
+      },
+      "latency_seconds": 0.0005,
+      "all_results": [
+        {
+          "filename": "sim-003.txt",
+          "score": 0.3333333333333333
+        },
+        {
+          "filename": "sim-004.txt",
+          "score": 0.3333333333333333
+        },
+        {
+          "filename": "sim-001.txt",
+          "score": 0.16666666666666666
+        },
+        {
+          "filename": "sim-002.txt",
+          "score": 0.16666666666666666
+        },
+        {
+          "filename": "sim-005.txt",
+          "score": 0.16666666666666666
+        }
+      ]
+    },
+    {
+      "id": "TC-005",
+      "query": "Di mana mahasiswa dapat menemukan informasi yang dibutuhkan?",
+      "expected": "Dokumen yang paling relevan dengan pertanyaan",
+      "top_result": {
+        "filename": "sim-001.txt",
+        "score": 0.75
+      },
+      "latency_seconds": 0.0002,
+      "all_results": [
+        {
+          "filename": "sim-001.txt",
+          "score": 0.75
+        },
+        {
+          "filename": "sim-005.txt",
+          "score": 0.75
+        },
+        {
+          "filename": "sim-002.txt",
+          "score": 0.625
+        },
+        {
+          "filename": "sim-003.txt",
+          "score": 0.5
+        },
+        {
+          "filename": "sim-004.txt",
+          "score": 0.5
+        }
+      ]
+    }
+  ]
+}

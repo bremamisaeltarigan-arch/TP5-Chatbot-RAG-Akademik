@@ -121,3 +121,72 @@ Jawaban + Rujukan
 ```
 
 Tahap embedding, vector index, retrieval, dan LLM merupakan bagian pengembangan RAG pada tahap berikutnya.
+
+
+# TP6 - AI Method Selection & Reproducible Mini Experiment
+
+## 1. Formulasi Masalah
+
+Proyek ini mengembangkan chatbot akademik yang membantu pengguna
+menemukan dokumen yang relevan berdasarkan pertanyaan.
+
+Input sistem berupa pertanyaan teks dari pengguna.
+
+Output sistem berupa dokumen yang paling relevan terhadap pertanyaan.
+
+Pengguna utama adalah mahasiswa yang membutuhkan informasi akademik.
+
+Kesalahan retrieval dapat menyebabkan sistem mengambil dokumen yang
+kurang relevan sehingga informasi pada tahap berikutnya dapat menjadi
+kurang tepat.
+
+## 2. Metode AI
+
+Metode yang dipilih adalah embedding dan semantic search.
+
+Semantic search digunakan karena pertanyaan pengguna tidak selalu
+menggunakan kata yang sama dengan isi dokumen.
+
+Model embedding:
+
+`embeddinggemma`
+
+Runtime:
+
+`Ollama Local`
+
+## 3. Baseline
+
+Baseline yang digunakan adalah Keyword Search.
+
+Keyword Search mencari kecocokan kata secara langsung, sedangkan
+Semantic Search menggunakan embedding untuk mencari kemiripan makna.
+
+Perbandingan ini digunakan untuk melihat perbedaan antara metode
+sederhana berbasis kata dan metode berbasis embedding.
+
+## 4. Dataset
+
+Dataset menggunakan lima dokumen simulasi dari TP5:
+
+- `sim-001.txt`
+- `sim-002.txt`
+- `sim-003.txt`
+- `sim-004.txt`
+- `sim-005.txt`
+
+Lokasi dataset:
+
+`data/storage/`
+
+Dataset tidak menggunakan data sensitif kampus atau identitas mahasiswa
+sebenarnya.
+
+## 5. Struktur Eksperimen
+
+```text
+experiments/
+├── tp6-test-cases.json
+├── tp6-results.json
+├── tp6-keyword-results.json
+└── tp6-results.md
